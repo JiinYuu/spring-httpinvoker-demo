@@ -6,18 +6,16 @@
 		<artifactId>spring-httpinvoker-demo</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>spring-httpinvoker-demo-server</artifactId>
+	<artifactId>spring-httpinvoker-demo-client</artifactId>
 
 	<dependencies>
-		
 		<dependency>
 			<groupId>com.lmq</groupId>
 			<artifactId>spring-httpinvoker-demo-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		
 	</dependencies>
-
+	
 	<build>
 		<plugins>
 			<plugin>
