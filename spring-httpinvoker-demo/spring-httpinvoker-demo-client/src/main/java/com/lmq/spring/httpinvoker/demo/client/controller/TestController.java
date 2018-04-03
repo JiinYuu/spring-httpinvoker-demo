@@ -14,6 +14,7 @@ public class TestController {
 
 	/**
 	 * 直接以接口类型注入即可使用远程服务
+	 * 
 	 */
 	private @Autowired UserService userService;
 	
